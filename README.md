@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AlessandroMasala
-- 👀 I’m interested in Data Science
 - 🌱 I’m currently a student of Data Science and Engineering at Polito
 - 📫 How to reach me: alessan.masala@gmail.com
 
